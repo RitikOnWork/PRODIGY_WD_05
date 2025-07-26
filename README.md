@@ -20,6 +20,14 @@ A simple and responsive **Weather App** built using **HTML**, **CSS**, and **Jav
 ### Desktop View
 ![Desktop Screenshot](demo.png)
 
+## 📂 Project Structure
+PRODIGY_WD_05/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
 ## 🔧 Setup Instructions
 
 1. Clone the repository:
@@ -42,12 +50,5 @@ Replace the placeholder YOUR_API_KEY in the JavaScript file with your actual API
 ```bash
 let apiKey = "YOUR_API_KEY";
 
-# 📂 Project Structure
-PRODIGY_WD_05/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
 
 
