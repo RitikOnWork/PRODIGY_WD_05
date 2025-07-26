@@ -54,5 +54,3 @@ Replace the placeholder YOUR_API_KEY in the JavaScript file with your actual API
 
 ```bash
 let apiKey = "YOUR_API_KEY";
-
-
