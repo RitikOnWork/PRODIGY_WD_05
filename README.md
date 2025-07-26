@@ -20,6 +20,19 @@ A simple and responsive **Weather App** built using **HTML**, **CSS**, and **Jav
 ### Desktop View
 ![Desktop Screenshot](demo.png)
 
+---
+
+## 🛠️ Tech Stack Used
+
+| Technology            | Purpose                                                                 |
+|------------------------|-------------------------------------------------------------------------|
+| **HTML5**              | To structure the web page                                               |
+| **CSS3**               | To style and design the UI responsively                                |
+| **JavaScript (Vanilla JS)** | To handle logic, fetch weather data via API, and update UI dynamically |
+| **OpenWeatherMap API** | To fetch real-time weather data based on city name                     |
+
+---
+
 ## 🔧 Setup Instructions
 
 1. Clone the repository:
@@ -42,14 +55,4 @@ Replace the placeholder YOUR_API_KEY in the JavaScript file with your actual API
 ```bash
 let apiKey = "YOUR_API_KEY";
 
-## 🛠️ Tech Stack Used
-
-| Technology            | Purpose                                                                 |
-|------------------------|-------------------------------------------------------------------------|
-| **HTML5**              | To structure the web page                                               |
-| **CSS3**               | To style and design the UI responsively                                |
-| **JavaScript (Vanilla JS)** | To handle logic, fetch weather data via API, and update UI dynamically |
-| **OpenWeatherMap API** | To fetch real-time weather data based on city name                     |
-
----
 
